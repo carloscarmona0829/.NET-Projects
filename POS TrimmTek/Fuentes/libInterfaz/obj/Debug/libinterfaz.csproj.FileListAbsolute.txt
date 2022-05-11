@@ -1,0 +1,221 @@
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POS\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POS\libinterfaz\obj\Debug\libinterfaz.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POS\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\obj\Debug\libinterfaz.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POSActual\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\obj\Debug\libinterfaz.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+E:\POS TrimmTekOLD\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libreglasnegocio.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Debug\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Debug\libinterfaz.pdb

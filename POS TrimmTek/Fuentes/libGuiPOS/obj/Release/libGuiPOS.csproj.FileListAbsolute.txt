@@ -1,0 +1,457 @@
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1Command.2.xml
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1List.2.xml
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\C1.Win.C1TrueDBGrid.2.xml
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmPersonasIngreso.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmCasas.resources
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmRegistro.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmCasas.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmPersonasIngreso.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmRegistro.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\concrt140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\cvextern.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\msvcp140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\opencv_ffmpeg341_64.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\vcruntime140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\concrt140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\cvextern.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\msvcp140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\opencv_ffmpeg341.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\vcruntime140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\de\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\es\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\fr\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\hu\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\it\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ja\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\pt\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ru\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\sk\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\sv\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\tr\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmCasas.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmPersonasIngreso.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmRegistro.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\concrt140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\cvextern.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\msvcp140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\opencv_ffmpeg341_64.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\vcruntime140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\concrt140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\cvextern.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\msvcp140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\opencv_ffmpeg341.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\vcruntime140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\de\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\es\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\fr\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\hu\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\it\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ja\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\pt\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\ru\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\sk\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\sv\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\tr\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmCasas.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmRegistro.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe.config
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\concrt140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\cvextern.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\msvcp140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\opencv_ffmpeg341_64.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x64\vcruntime140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\concrt140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\cvextern.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\msvcp140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\opencv_ffmpeg341.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\x86\vcruntime140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.exe
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libGuiPOS.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libreglasnegocio.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Imaging.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Math.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\AForge.Video.DirectShow.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.UI.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\Emgu.CV.World.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\ZedGraph.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\de\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\es\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\fr\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\hu\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\it\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\ja\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\pt\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\ru\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\sk\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\sv\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\tr\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmAutorizacion.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCambiarPwd.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmCierre.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmFacturacion.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmInventario.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLiquidar.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmListaClientes.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmModulos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmNomina.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPermisosAPerfil.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProductos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmProveedores.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmRecuperarPwd.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmPerfiles.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmTurnos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmUsuarios.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmLogin.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.frmVentasProductos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.MdiPrincipal.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Properties.Resources.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmCasas.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.Registros.frmRegistro.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.csproj.GenerateResource.Cache
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Release\libGuiPOS.exe.licenses

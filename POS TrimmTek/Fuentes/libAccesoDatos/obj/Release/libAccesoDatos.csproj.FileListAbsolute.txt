@@ -1,0 +1,72 @@
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+E:\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\bin\Release\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libAccesoDatos\obj\Release\libAccesoDatos.pdb

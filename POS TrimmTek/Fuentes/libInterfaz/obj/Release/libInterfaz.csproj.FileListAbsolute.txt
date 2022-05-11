@@ -1,0 +1,104 @@
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libreglasnegocio.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\bin\Release\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libInterfaz.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libinterfaz\obj\Release\libinterfaz.pdb

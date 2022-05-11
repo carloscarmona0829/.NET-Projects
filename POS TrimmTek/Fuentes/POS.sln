@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libGuiPOS", "libGuiPOS\libGuiPOS.csproj", "{DB3A9BD4-A971-4E2A-A74B-286130253485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libEntidades", "libEntidades\libEntidades.csproj", "{95CAFFB2-B154-4B1A-AF43-7DFF0E5CCD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libInterfaz", "libinterfaz\libInterfaz.csproj", "{57220858-F98B-4B70-A31E-CD419AF0EE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libReglasNegocio", "libreglasnegocio\libReglasNegocio.csproj", "{B5A6AFF1-BE5D-449D-9D50-F516EE742AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libAccesoDatos", "libAccesoDatos\libAccesoDatos.csproj", "{B0A8BF95-F819-4CEE-BE7B-675F1E1A4BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libConexion", "libconexion\libConexion.csproj", "{422EBAC0-FD3D-422F-9ABF-061EDC78CED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3A9BD4-A971-4E2A-A74B-286130253485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3A9BD4-A971-4E2A-A74B-286130253485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3A9BD4-A971-4E2A-A74B-286130253485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3A9BD4-A971-4E2A-A74B-286130253485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CAFFB2-B154-4B1A-AF43-7DFF0E5CCD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CAFFB2-B154-4B1A-AF43-7DFF0E5CCD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CAFFB2-B154-4B1A-AF43-7DFF0E5CCD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CAFFB2-B154-4B1A-AF43-7DFF0E5CCD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57220858-F98B-4B70-A31E-CD419AF0EE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57220858-F98B-4B70-A31E-CD419AF0EE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57220858-F98B-4B70-A31E-CD419AF0EE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57220858-F98B-4B70-A31E-CD419AF0EE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A6AFF1-BE5D-449D-9D50-F516EE742AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A6AFF1-BE5D-449D-9D50-F516EE742AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A6AFF1-BE5D-449D-9D50-F516EE742AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A6AFF1-BE5D-449D-9D50-F516EE742AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A8BF95-F819-4CEE-BE7B-675F1E1A4BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A8BF95-F819-4CEE-BE7B-675F1E1A4BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A8BF95-F819-4CEE-BE7B-675F1E1A4BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A8BF95-F819-4CEE-BE7B-675F1E1A4BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422EBAC0-FD3D-422F-9ABF-061EDC78CED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422EBAC0-FD3D-422F-9ABF-061EDC78CED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422EBAC0-FD3D-422F-9ABF-061EDC78CED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422EBAC0-FD3D-422F-9ABF-061EDC78CED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

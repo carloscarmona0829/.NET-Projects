@@ -1,0 +1,1017 @@
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libInterfaz.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\CountryClub.AccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libInterfaz.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\bin\Debug\CountryClub.AccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libInterfaz.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libConexion.dll
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libInterfaz.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\bin\Debug\libConexion.pdb
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Dropbox\Sistema Pos\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\libGuiPOS\obj\Debug\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libEntidades.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libInterfaz.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libConexion.dll
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libEntidades.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libInterfaz.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libReglasNegocio.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\bin\Debug\libConexion.pdb
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS\POS\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POS\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\jmunera\Downloads\POSActual\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\DMA\pos\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\jmunera\Downloads\POS 20151214\Despliegue POS 20151214\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\jmunera\Downloads\POS 20151214\Despliegue POS 20151214\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\jmunera\Downloads\POS 20151214\Despliegue POS 20151214\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Despliegue POS 20151214-1\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\Fuentes20151215\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POSKápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS Kápula\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS TrimmTek\POS\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS TrimmTek\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek\POS\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\POS TrimmTek1\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\Administrador\Desktop\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1Command.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1List.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\C1.Win.C1TrueDBGrid.2.xml
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+E:\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+E:\POS TrimmTekOLD\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\concrt140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\cvextern.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\msvcp140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\opencv_ffmpeg341_64.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\vcruntime140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\concrt140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\cvextern.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\msvcp140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\opencv_ffmpeg341.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\vcruntime140.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.xml
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\de\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\es\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\fr\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\hu\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\it\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ja\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\pt\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ru\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\sk\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\sv\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\tr\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+E:\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\concrt140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\cvextern.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\msvcp140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\vcruntime140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\concrt140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\cvextern.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\msvcp140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\vcruntime140.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.xml
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\de\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\es\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\fr\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\hu\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\it\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ja\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\pt\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\ru\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\sk\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\sv\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\tr\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Program Files\REG TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\concrt140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\cvextern.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\msvcp140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x64\vcruntime140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\concrt140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\cvextern.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\msvcp140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\x86\vcruntime140.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libinterfaz.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libreglasnegocio.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Imaging.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Math.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.UI.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\Emgu.CV.World.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\ZedGraph.xml
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libAccesoDatos.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\de\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\es\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\fr\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\hu\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\it\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\ja\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\pt\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\ru\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\sk\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\sv\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\tr\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmAutorizacion.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCambiarPwd.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmCierre.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmFacturacion.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmInventario.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLiquidar.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmListaClientes.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmModulos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmNomina.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPermisosAPerfil.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProductos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmProveedores.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmRecuperarPwd.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmPerfiles.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmTurnos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmUsuarios.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmLogin.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.frmVentasProductos.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.MdiPrincipal.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Properties.Resources.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmCasas.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmPersonasIngreso.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.Registros.frmRegistro.resources
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.csproj.GenerateResource.Cache
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\obj\Debug\libGuiPOS.exe.licenses
+C:\Program Files\POS TrimmTek\Fuentes\libGuiPOS\bin\Debug\libGuiPOS.exe.config

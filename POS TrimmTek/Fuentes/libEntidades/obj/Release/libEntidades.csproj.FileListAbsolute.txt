@@ -1,0 +1,38 @@
+C:\Users\Administrador\Desktop\Fuentes\libEntidades\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libEntidades\obj\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+C:\Users\Administrador\Desktop\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+E:\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+E:\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+E:\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+E:\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+C:\Program Files\REG TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libEntidades\bin\Release\libEntidades.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.dll
+C:\Program Files\POS TrimmTek\Fuentes\libEntidades\obj\Release\libEntidades.pdb

@@ -1,0 +1,19 @@
+*** Ingreso a la Base de datos de SQLEXPRESS2016 ENglish***
+
+Usuarios sql
+sa
+C@r10$77
+
+realkosmetika
+Medellin2020*
+
+*** Ingreso a la aplicación existen estos usuarios***
+Usuario Super Administrador
+trimmtek
+123456
+
+Usuario de Registro de ingresos
+carloscarmona0829
+123456	
+luivera7788
+123456

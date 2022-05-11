@@ -1,0 +1,34 @@
+C:\Users\Administrador\Desktop\Fuentes\libconexion\bin\Release\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libconexion\bin\Release\libconexion.pdb
+C:\Users\Administrador\Desktop\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Fuentes\libconexion\obj\Release\libconexion.dll
+C:\Users\Administrador\Desktop\Fuentes\libconexion\obj\Release\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+D:\Desarrollos DMACCA\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+D:\David\Carlos carmona\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+E:\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+E:\POS TrimmTek\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+E:\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+E:\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+E:\REG TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+E:\REG TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
+E:\REG TrimmTek\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+C:\Program Files\REG TrimmTek\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+C:\Program Files\REG TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+C:\Program Files\REG TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libconexion\bin\Release\libconexion.pdb
+C:\Program Files\POS TrimmTek\Fuentes\libconexion\obj\Release\libConexion.csprojResolveAssemblyReference.cache
+C:\Program Files\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.dll
+C:\Program Files\POS TrimmTek\Fuentes\libconexion\obj\Release\libconexion.pdb
