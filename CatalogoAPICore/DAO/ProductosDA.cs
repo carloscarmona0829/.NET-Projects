@@ -13,7 +13,7 @@ namespace DA
         
         // Instancia con el archivo que tiene los métodos que interactúan con la bd (DataSets, Data Tables...)
         private AccesoSQL objDatos = new AccesoSQL();
-        SqlConnection con = new SqlConnection("data source=.\\DESARROLLO; initial catalog=Universal; user id=sa; password=123456; MultipleActiveResultSets=true");
+        SqlConnection con = new SqlConnection("data source=.\\SQLEXPRESS; initial catalog=Universal; user id=sa; password=123456; MultipleActiveResultSets=true");
 
         public DataSet CargarDdl_Productos()
         {
@@ -36,31 +36,29 @@ namespace DA
                 {
                     case "INSERTAR":
 
-                        Parametros = new SqlParameter[8];
-
+                        Parametros = new SqlParameter[7];
+                      
                         Parametros[0] = new SqlParameter("@Nombre", entidadProductos.Nombre);
                         Parametros[1] = new SqlParameter("@Descripcion", entidadProductos.Descripcion);
-                        Parametros[2] = new SqlParameter("@Id_Categoria", entidadProductos.Categoria);
+                        Parametros[2] = new SqlParameter("@Id_Categoria", entidadProductos.Id_Categoria);                        
                         Parametros[3] = new SqlParameter("@Imagen", entidadProductos.Imagen);
                         Parametros[4] = new SqlParameter("@Stock", entidadProductos.Stock);
                         Parametros[5] = new SqlParameter("@Precio", entidadProductos.Precio);
-                        Parametros[6] = new SqlParameter("@Estado", entidadProductos.Estado);
-                        Parametros[7] = new SqlParameter("@Accion", Accion);
+                        Parametros[6] = new SqlParameter("@Accion", Accion);
 
                         break;
 
                     case "ACTUALIZAR":
 
-                        Parametros = new SqlParameter[8];
+                        Parametros = new SqlParameter[7];
 
                         Parametros[0] = new SqlParameter("@Nombre", entidadProductos.Nombre);
                         Parametros[1] = new SqlParameter("@Descripcion", entidadProductos.Descripcion);
-                        Parametros[2] = new SqlParameter("@Id_Categoria", entidadProductos.Categoria);
+                        Parametros[2] = new SqlParameter("@Id_Categoria", entidadProductos.Id_Categoria);
                         Parametros[3] = new SqlParameter("@Imagen", entidadProductos.Imagen);
                         Parametros[4] = new SqlParameter("@Stock", entidadProductos.Stock);
                         Parametros[5] = new SqlParameter("@Precio", entidadProductos.Precio);
-                        Parametros[6] = new SqlParameter("@Estado", entidadProductos.Estado);
-                        Parametros[7] = new SqlParameter("@Accion", Accion);
+                        Parametros[6] = new SqlParameter("@Accion", Accion);
 
                         break;
 
@@ -76,12 +74,14 @@ namespace DA
 
                     case "BUSCAR":
 
-                        Parametros = new SqlParameter[4];
+                        Parametros = new SqlParameter[5];
 
-                        Parametros[0] = new SqlParameter("@Identificacion", entidadProductos.Nombre);
-                        Parametros[1] = new SqlParameter("@Nom_Usuario ", entidadProductos.Descripcion);
-                        Parametros[2] = new SqlParameter("@Email_Usuario ", entidadProductos.Categoria);
-                        Parametros[3] = new SqlParameter("@Accion", Accion);
+                        //Parametros[0] = new SqlParameter("@Id", entidadProductos.Id);
+                        Parametros[0] = new SqlParameter("@Nombre", entidadProductos.Nombre);
+                        Parametros[1] = new SqlParameter("@Descripcion", entidadProductos.Descripcion);
+                        Parametros[2] = new SqlParameter("@Categoria", entidadProductos.Categoria);
+                        Parametros[3] = new SqlParameter("@Id_Categoria", entidadProductos.Id_Categoria);
+                        Parametros[4] = new SqlParameter("@Accion", Accion);
 
                         break;
 

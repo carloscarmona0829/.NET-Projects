@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hKlc0DO/MtPucHWo2hdqBLaao0JD+orj0nyfJS3rbH7wE6mRkmzAckgDnC6AkW5NNb6g9/RFZmrhvN3xf6Fodg==",
+  "dgSpecHash": "0O6Wz9plrLY8P+Rkxotp6dR+Y5B9A/ccOb2biNhpQIbc2If4LxnqmiwqqfP06OrGvxCPF/MKvRGo4hxhFM0nmQ==",
   "success": true,
-  "projectFilePath": "C:\\Carlos Carmona\\.NET-Projects\\CatalogoAPICore\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\Visual Studio 2019\\.NET-Projects\\CatalogoAPICore\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,3 +14,4 @@ Aplicación CRUD de productos para un catálogo
 - El proyecto backend tiene 4 capas (DbAccess, DAO, BR, CatalogoAPI) y además una librería de entidades.
 - La api rest tiene todos los métodos funcionales por medio de procedimientos almacenados.
 - La base de datos se llama Universal el .bak esta en esta misma carpeta.
+- Tiene los métodos de Get, Get<ParametroBusqueda>, Getddl, Post, Put, Delete
